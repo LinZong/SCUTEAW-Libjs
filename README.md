@@ -10,4 +10,7 @@
 | Personal Info      | pending |   pending    |
 | Select Courses API | pending |   pending    |
 
-
+ - Status & Introduction: 
+   - "√" indicates that this library contains modules specified. 
+   - "-" indicates that this library modules is deprecated. 
+   - "pending" indicates that this library modules is being developed. 
